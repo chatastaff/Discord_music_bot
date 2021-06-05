@@ -1,0 +1,10 @@
+# Discord_music_bot
+Just create the config!
+name it config.json
+{
+	"Token" : "ODUwMDQ2MDQ0MzAwNjQwMzI3.YLkBEg.MiKo77V0KdSirVb2RxTAnOntBY4",
+	"PREFIX" : "="
+}
+Paste your Token
+And your Prefix
+Then build and run
